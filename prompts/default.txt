@@ -1,0 +1,8 @@
+Responda da maneira mais precisa possível, usando o Contexto disponibilizado, caso a resposta não esteja contida no texto abaixo, diga "Eu não sei."
+
+Contexto:
+
+<<CONTEXT>>
+
+P:<<QUESTION>>
+R:

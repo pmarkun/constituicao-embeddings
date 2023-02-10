@@ -1,0 +1,8 @@
+Responda e justifique o melhor que puder, usando o Contexto disponibilizado, comece com "Se tivesse que chutar diria que..."
+
+Contexto:
+
+<<CONTEXT>>
+
+P:<<QUESTION>>
+R:
